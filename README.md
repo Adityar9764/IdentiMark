@@ -1,4 +1,4 @@
-# Attendify
+# IdentiMark
 
 ---
 
@@ -74,8 +74,8 @@ A sophisticated **Facial Recognition Attendance Management System** designed to 
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/Adityar9764/Attendify.git
-   cd Attendify
+   git clone https://github.com/Adityar9764/IdentiMark.git
+   cd IdentiMark
    ```
 
 2. Install dependencies for the backend and frontend:
