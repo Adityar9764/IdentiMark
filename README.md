@@ -115,12 +115,6 @@ A sophisticated **Facial Recognition Attendance Management System** designed to 
 
 ---
 
-## 📜 License
-
-This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
-
----
-
 ## 🌟 Acknowledgments
 
 - **Libraries & Frameworks:** React, Tailwind CSS, Node.js, Express, MongoDB, dlib, and more.
